@@ -1,0 +1,6 @@
+aws/
+.terraform/
+.terraform.lock.hcl
+*.tfstate*
+*.pub
+*.tfvars
