@@ -1,3 +1,5 @@
+http://ec2-35-181-210-157.eu-west-3.compute.amazonaws.com/
+
 WP ADMIN
 
 username = yura2;
